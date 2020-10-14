@@ -7,15 +7,12 @@ package dsdemof2021;
 
 /**
  *
- * @author Bilal
+ * @author Bilal This is a comment
  */
 public class DSDemoF2021 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Ayya shi...");
     }
 
 }
